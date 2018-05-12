@@ -1,0 +1,29 @@
+_repo: The-Tribune-of-Nova-ScotiaA-Chronicle-of-Joseph-Howe_24932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grant, W. L. (William Lawson)
+    alias: Grant, William Lawson
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '26823'
+    url: http://www.gutenberg.org/2009/agents/26823
+description: ''
+gutenberg_issued: '2008-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Howe, Joseph, 1804-1873'
+- !lcc 'F1001'
+title: 'The Tribune of Nova Scotia
+
+  A Chronicle of Joseph Howe'
+url: http://www.gutenberg.org/ebooks/24932
